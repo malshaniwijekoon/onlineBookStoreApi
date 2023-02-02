@@ -1,2 +1,2 @@
-# onlineBookStoreApi
-firehouse
+# SpringBootBasic
+Sample Spring Boot Application
